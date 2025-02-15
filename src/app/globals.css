@@ -8,6 +8,8 @@
   --background: #282828;
   --foreground: #373737;
   --nav-bar: #1A1A1A;
+  --button: #232323;
+  --button-focus: #191919;
   --text-color: #ebe7e7;
   --font: "Roboto Condensed", serif;;
 }
