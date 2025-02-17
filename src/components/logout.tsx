@@ -11,4 +11,4 @@ export default function Logout() {
       <button className="content-center pl-[1vw] text-[3vh] text-[--text-color]" type="submit">Logout</button>
     </form>
   )
-} 
+}
