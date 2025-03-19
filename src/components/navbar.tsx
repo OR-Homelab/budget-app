@@ -31,6 +31,8 @@ export default function Navbar(session: Session | null) {
           "w-[20vh] mt-[1vh] ml-[15vw] fixed flex"
         )}
 
+        <div className="w-[.2vw] h-[6vh] mt-[1vh] ml-[21.5vw] fixed flex bg-[--text-color] rounded-md"></div>
+
         {/* Previous budgets button */}
         {NavbarButton(
           "Previous Budgets",

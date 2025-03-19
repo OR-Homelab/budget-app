@@ -11,6 +11,10 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        navbar: "var(--navbar)",
+        button: "var(--button)",
+        buttonFocus: "var(--button-focus)",
+        textColor: "var(--text-color)",
       },
     },
   },

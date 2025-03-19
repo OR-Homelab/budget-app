@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -7,11 +7,11 @@
 :root {
   --background: #282828;
   --foreground: #373737;
-  --nav-bar: #1A1A1A;
+  --navbar: #1a1a1a;
   --button: #232323;
   --button-focus: #191919;
   --text-color: #ebe7e7;
-  --font: "Roboto Condensed", serif;;
+  --font: "Roboto Condensed", serif;
 }
 
 body {
